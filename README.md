@@ -237,4 +237,4 @@ This repository serves as the official landing page for **DivX**. The software i
 **Get the most recent version of DivX today!**
 
 ---
-**Last updated:** 2026-09-10 19:20:40 UTC
+**Last updated:** 2026-09-10 22:03:54 UTC
